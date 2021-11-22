@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		73BE3BDD266055D900757F0F /* level3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 73BE3BDC266055D800757F0F /* level3.txt */; };
 		73EE7594265C7A41008791DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73EE7593265C7A41008791DE /* AppDelegate.swift */; };
 		73EE7596265C7A41008791DE /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 73EE7595265C7A41008791DE /* GameScene.sks */; };
 		73EE759A265C7A41008791DE /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73EE7599265C7A41008791DE /* GameScene.swift */; };
@@ -14,9 +15,11 @@
 		73EE759F265C7A41008791DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73EE759D265C7A41008791DE /* Main.storyboard */; };
 		73EE75A1265C7A48008791DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73EE75A0265C7A48008791DE /* Assets.xcassets */; };
 		73EE75AC265C7B65008791DE /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 73EE75AB265C7B65008791DE /* level1.txt */; };
+		73EE75AF265F1146008791DE /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 73EE75AE265F1145008791DE /* level2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		73BE3BDC266055D800757F0F /* level3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level3.txt; sourceTree = "<group>"; };
 		73EE7590265C7A40008791DE /* Project26.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project26.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73EE7593265C7A41008791DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73EE7595265C7A41008791DE /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -26,6 +29,7 @@
 		73EE75A0265C7A48008791DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73EE75A2265C7A48008791DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73EE75AB265C7B65008791DE /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		73EE75AE265F1145008791DE /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				73EE75A0265C7A48008791DE /* Assets.xcassets */,
 				73EE75A2265C7A48008791DE /* Info.plist */,
 				73EE75AB265C7B65008791DE /* level1.txt */,
+				73EE75AE265F1145008791DE /* level2.txt */,
+				73BE3BDC266055D800757F0F /* level3.txt */,
 			);
 			path = Project26;
 			sourceTree = "<group>";
@@ -127,6 +133,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73EE75AF265F1146008791DE /* level2.txt in Resources */,
+				73BE3BDD266055D900757F0F /* level3.txt in Resources */,
 				73EE759F265C7A41008791DE /* Main.storyboard in Resources */,
 				73EE75AC265C7B65008791DE /* level1.txt in Resources */,
 				73EE7596265C7A41008791DE /* GameScene.sks in Resources */,
