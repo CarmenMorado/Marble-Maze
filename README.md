@@ -10,4 +10,11 @@ SKAction sequences, and more. In addition, I completed the following challenges:
 
 -Add a new block type, such as a teleport that moves the player from one teleport point to the other. Add a new letter type in loadLevel(), add another collision type to our enum, then see what you can do.
 
+![project26a](https://user-images.githubusercontent.com/42749527/142960883-b43a3d2d-6a6b-4ba0-9f1d-8894d78412c9.png)
+
+![project26a](https://user-images.githubusercontent.com/42749527/142960891-f2eab914-3c6b-4fef-8250-d91e85f019b6.png)
+
+![project26c](https://user-images.githubusercontent.com/42749527/142960904-350f9cdc-924d-40f9-8d5e-d0ca3067b7bb.png)
+
+
 
